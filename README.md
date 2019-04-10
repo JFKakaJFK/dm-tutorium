@@ -5,3 +5,4 @@
   - [Grenzwerte](./analysis.pdf)
 - [Blatt4](./blatt4.pdf)
 - [Blatt5](./blatt5.pdf)
+- [Blatt6](./blatt6.pdf)
