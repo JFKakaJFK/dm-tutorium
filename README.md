@@ -8,3 +8,4 @@
 - [Blatt6](./blatt6.pdf)
 - [Blatt7](./blatt7.pdf)
   - [Blatt7 4a in Haskell](./enumparens.hs)
+- [Blatt8](./blatt8.pdf)
